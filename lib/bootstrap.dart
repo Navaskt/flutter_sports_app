@@ -17,7 +17,7 @@ class RootApp extends StatelessWidget {
     final router = createRouter();
     return MaterialApp.router(
       debugShowCheckedModeBanner: false,
-      theme: AppTheme.light,
+      theme: AppTheme.dark,
       routerConfig: router,
       locale: const Locale('en'),
       supportedLocales: const [Locale('en'), Locale('ar')],
