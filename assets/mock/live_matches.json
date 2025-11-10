@@ -1,0 +1,32 @@
+[
+    {
+        "id": "m1",
+        "startTime": "2025-11-10T14:00:00Z",
+        "league": "Premier League",
+        "homeTeam": "Arsenal",
+        "awayTeam": "Chelsea",
+        "homeScore": 1,
+        "awayScore": 0,
+        "status": "live"
+    },
+    {
+        "id": "m2",
+        "startTime": "2025-11-10T16:30:00Z",
+        "league": "La Liga",
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 0,
+        "status": "scheduled"
+    },
+    {
+        "id": "m3",
+        "startTime": "2025-11-09T18:00:00Z",
+        "league": "Serie A",
+        "homeTeam": "Inter",
+        "awayTeam": "Milan",
+        "homeScore": 2,
+        "awayScore": 1,
+        "status": "finished"
+    }
+]
